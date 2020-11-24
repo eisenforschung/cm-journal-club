@@ -18,4 +18,4 @@ List of potential candidates:
 - [Measuring Dynamic Structural Changes of Nanoparticles at the Atomic Scale Using Scanning Transmission Electron Microscopy](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.106105) (experimental)
 - [Solute/twin boundary interaction as a new atomic-scale mechanism for dynamic strain aging](https://www.sciencedirect.com/science/article/pii/S1359645420300926)
 - [Nucleation of Dislocations in 3.9 nm Nanocrystals at High Pressure](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.106104) (experimental)
-- [Deformation induced grain boundary segregation in nanolaminated Al–Cu alloy](Deformation induced grain boundary segregation in nanolaminated Al–Cu alloy)
+- [Deformation induced grain boundary segregation in nanolaminated Al–Cu alloy](https://www.sciencedirect.com/science/article/pii/S1359645419306986)
