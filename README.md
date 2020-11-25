@@ -1,6 +1,10 @@
 # Journal club
 Pyiron notebooks from our journal club
 
+Upcoming sessions:
+
+- (December 2, 2020 2pm CET)[Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110)
+
 List of random interesting topics:
 
 - Measurement of grain boundary diffusion coefficient
@@ -9,7 +13,6 @@ List of random interesting topics:
 List of candidate papers:
 
 - [Precipitate formation in aluminium alloys: Multi-scale modelling approach](https://www.sciencedirect.com/science/article/pii/S1359645420303979)
-- [Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110)
 - [Intermediate structural evolution preceding growing BCC crystal interface in deeply undercooled monatomic metallic liquids](https://www.sciencedirect.com/science/article/pii/S1359645420308740)
 - [Size- and temperature-dependent magnetization of iron nanoclusters](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184426)
 - [Magnetic anisotropy of uniaxial ferromagnets near the Curie temperature](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.174436)
