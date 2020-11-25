@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (December 2, 2020 2pm CET)[Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110)
+- (December 2, 2020 2pm CET) [Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110)
 
 List of random interesting topics:
 
