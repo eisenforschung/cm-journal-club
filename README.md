@@ -1,7 +1,12 @@
 # Journal club
 Pyiron notebooks from our journal club
 
-List of potential candidates:
+List of random interesting topics:
+
+- Measurement of grain boundary diffusion coefficient
+- Cluster-expansion-assisted SQS
+
+List of candidate papers:
 
 - [Precipitate formation in aluminium alloys: Multi-scale modelling approach](https://www.sciencedirect.com/science/article/pii/S1359645420303979)
 - [Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110)
