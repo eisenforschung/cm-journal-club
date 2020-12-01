@@ -5,6 +5,7 @@ Upcoming sessions:
 
 - (December 2, 2020 2pm CET) Understanding Gaussian Process Part II
 - (December 9, 2020 2pm CET) [Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110)
+- (December 16, 2020) (à confirmer) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416)
 
 List of random interesting topics:
 
