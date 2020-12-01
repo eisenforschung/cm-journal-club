@@ -10,7 +10,6 @@ Upcoming sessions:
 List of random interesting topics:
 
 - Measurement of grain boundary diffusion coefficient
-- Cluster-expansion-assisted SQS
 
 List of candidate papers:
 
