@@ -35,6 +35,7 @@ List of candidate papers:
 - [Solute/twin boundary interaction as a new atomic-scale mechanism for dynamic strain aging](https://www.sciencedirect.com/science/article/pii/S1359645420300926)
 - [Nucleation of Dislocations in 3.9 nm Nanocrystals at High Pressure](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.106104) (experimental)
 - [Deformation induced grain boundary segregation in nanolaminated Al–Cu alloy](https://www.sciencedirect.com/science/article/pii/S1359645419306986)
+- [Quantum versus thermal fluctuations in the fcc antiferromagnet: Alternative routes to order by disorder](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.220405)
 
 Previous sessions:
 
