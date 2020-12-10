@@ -36,6 +36,18 @@ List of candidate papers:
 - [Nucleation of Dislocations in 3.9 nm Nanocrystals at High Pressure](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.106104) (experimental)
 - [Deformation induced grain boundary segregation in nanolaminated Al–Cu alloy](https://www.sciencedirect.com/science/article/pii/S1359645419306986)
 - [Quantum versus thermal fluctuations in the fcc antiferromagnet: Alternative routes to order by disorder](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.220405)
+- [The key role played by dislocation core radius and energy in hydrogen interaction with dislocations](https://www.sciencedirect.com/science/article/abs/pii/S1359645419308729)
+- [Effect of vacancy creation and annihilation on grain boundary motion](https://www.sciencedirect.com/science/article/abs/pii/S1359645419307839)
+- [Materials property prediction using symmetry-labeled graphs as atomic position independent descriptors](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104114)
+- [Ideal maximum strengths and defect-induced softening in nanocrystalline-nanotwinned metals](https://www.nature.com/articles/s41563-019-0484-3)
+- [The effect of large plastic deformation on elevated temperature mechanical behavior of dynamic strain aging Al-Mg alloys](https://www.sciencedirect.com/science/article/abs/pii/S1359645419306147) (experimental)
+- [Spectrum of grain boundary segregation energies in a polycrystal](https://www.sciencedirect.com/science/article/abs/pii/S135964541930624X)
+- [Effect of solutes on strength and ductility of Mg alloys](https://www.sciencedirect.com/science/article/abs/pii/S1359645419306081)
+- [Rearrangement of interstitial defects in alpha-Fe under extreme condition](https://www.sciencedirect.com/science/article/abs/pii/S1359645419305877)
+- [Solute drag and dynamic phase transformations in moving grain boundaries](https://www.sciencedirect.com/science/article/abs/pii/S135964541930566X)
+- [Small scale testing approach to reveal specific features of slip behavior in BCC metals](https://www.sciencedirect.com/science/article/abs/pii/S1359645419303155) (experimental)
+- [Large scale 3-dimensional atomistic simulations of screw dislocations interacting with coherent twin boundaries in Al, Cu and Ni under uniaxial and multiaxial loading conditions](https://www.sciencedirect.com/science/article/pii/S1359645419303076)
+- [Quantified uncertainty in thermodynamic modeling for materials design](https://www.sciencedirect.com/science/article/abs/pii/S1359645419302915)
 
 Previous sessions:
 
