@@ -53,7 +53,7 @@ Previous sessions:
 - (December 16, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part II
 - (December 9, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part I
 - (December 2, 2020 2pm CET) Understanding Gaussian Process Part II
-- (November 25, 2020 2pm CET) Understanding Gaussian Process Part II
+- (November 25, 2020 2pm CET) Understanding Gaussian Process Part I
 - (November 3, 2020) Vacancy detection
 - (July 8, 2020) [Resolving hydrogen atoms at metal-metal hydride interfaces](https://advances.sciencemag.org/content/6/5/eaay4312)
 - (May 20, 2020) [Scalable parallel Monte Carlo algorithm for atomistic simulations of precipitation in alloys](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.184203)
