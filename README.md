@@ -3,7 +3,6 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (December 16, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part II
 - (January 6, 2021 2pm CET ?) [Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110) (à confirmer)
 
 List of random interesting topics:
@@ -51,6 +50,7 @@ List of candidate papers:
 
 Previous sessions:
 
+- (December 16, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part II
 - (December 9, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part I
 - (December 2, 2020 2pm CET) Understanding Gaussian Process Part II
 - (November 25, 2020 2pm CET) Understanding Gaussian Process Part II
