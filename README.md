@@ -47,6 +47,7 @@ List of candidate papers:
 - [Small scale testing approach to reveal specific features of slip behavior in BCC metals](https://www.sciencedirect.com/science/article/abs/pii/S1359645419303155) (experimental)
 - [Large scale 3-dimensional atomistic simulations of screw dislocations interacting with coherent twin boundaries in Al, Cu and Ni under uniaxial and multiaxial loading conditions](https://www.sciencedirect.com/science/article/pii/S1359645419303076)
 - [Quantified uncertainty in thermodynamic modeling for materials design](https://www.sciencedirect.com/science/article/abs/pii/S1359645419302915)
+- [Effect of non-Heisenberg magnetic interactions on defects in ferromagnetic iron](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.224106)
 
 Previous sessions:
 
