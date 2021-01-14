@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (January 13, 2021 2pm CET) [Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110) (à confirmer)
+- (January 20, 2021 2pm CET) [Critical exponent ν of the Ising model in three dimensions with long-range correlated site disorder analyzed with Monte Carlo techniques](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.174206)
 
 List of random interesting topics:
 
@@ -51,6 +51,7 @@ List of candidate papers:
 
 Previous sessions:
 
+- (January 13, 2021 2pm CET) [Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110)
 - (December 16, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part II
 - (December 9, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part I
 - (December 2, 2020 2pm CET) Understanding Gaussian Process Part II
