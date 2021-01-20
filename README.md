@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (January 20, 2021 2pm CET) [Critical exponent ν of the Ising model in three dimensions with long-range correlated site disorder analyzed with Monte Carlo techniques](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.174206)
+- (January 27, 2021 10am CET) [Thermodynamics and phase transitions in dissipative and active Morse chains](https://link.springer.com/article/10.1140/epjb/e2005-00151-2) and/or [Linear and nonlinear response functions of the Morse oscillator: Classical divergence and the uncertainty principle](https://aip.scitation.org/doi/abs/10.1063/1.1389840)
 
 List of random interesting topics:
 
@@ -51,6 +51,7 @@ List of candidate papers:
 
 Previous sessions:
 
+- (January 20, 2021 10am CET) [Critical exponent ν of the Ising model in three dimensions with long-range correlated site disorder analyzed with Monte Carlo techniques](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.174206)
 - (January 13, 2021 2pm CET) [Non-Arrhenius diffusion in bcc titanium: Vacancy-interstitialcy model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184110)
 - (December 16, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part II
 - (December 9, 2020, 2pm CET) [Longitudinal magnetic fluctuations in Langevin spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.054416) Part I
