@@ -23,7 +23,6 @@ List of candidate papers:
 - [Intermediate structural evolution preceding growing BCC crystal interface in deeply undercooled monatomic metallic liquids](https://www.sciencedirect.com/science/article/pii/S1359645420308740)
 - [Size- and temperature-dependent magnetization of iron nanoclusters](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.184426)
 - [Magnetic anisotropy of uniaxial ferromagnets near the Curie temperature](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.174436)
-- [Critical exponent ν of the Ising model in three dimensions with long-range correlated site disorder analyzed with Monte Carlo techniques](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.174206)
 - [Temperature-dependent phonon lifetimes and thermal conductivity of silicon by inelastic neutron scattering and ab initio calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.174311)
 - [Orientation dependence of dislocation structure in surface grain of pure copper deformed in tension](https://www.sciencedirect.com/science/article/pii/S1359645420308910) (experimental)
 - [Atomistic simulation of the generation of vacancies in rapid crystallization of metals](https://www.sciencedirect.com/science/article/pii/S135964542030882X)
