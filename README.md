@@ -49,7 +49,7 @@ List of candidate papers:
 - [Effect of non-Heisenberg magnetic interactions on defects in ferromagnetic iron](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.224106)
 - [Monte Carlo study of the phase diagram of disordered Fe<sub>p</sub>Al<sub>1−p</sub> alloys: A site-diluted isotropic Heisenberg model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.024446)
 - [A percolation theory for designing corrosion-resistant alloys](https://www.nature.com/articles/s41563-021-00920-9)
-- [Impact of crystallography at Ni/NiAl interfaces on the nucleation of Ni<sub>3</sub>Al](https://www.sciencedirect.com/science/article/abs/pii/S1359645421000938)
+- [Impact of crystallography at Ni/NiAl interfaces on the nucleation of Ni<sub>3</sub>Al](https://www.sciencedirect.com/science/article/abs/pii/S1359645421000938) (experimental)
 
 Previous sessions:
 
