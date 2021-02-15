@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (February 10, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407)
+- (February 24, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part II
 
 List of random interesting topics:
 
@@ -50,9 +50,11 @@ List of candidate papers:
 - [Monte Carlo study of the phase diagram of disordered Fe<sub>p</sub>Al<sub>1−p</sub> alloys: A site-diluted isotropic Heisenberg model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.024446)
 - [A percolation theory for designing corrosion-resistant alloys](https://www.nature.com/articles/s41563-021-00920-9)
 - [Impact of crystallography at Ni/NiAl interfaces on the nucleation of Ni<sub>3</sub>Al](https://www.sciencedirect.com/science/article/abs/pii/S1359645421000938) (experiment)
+- [Atomistic Insight into Hydrogen Trapping at MC/BCC-Fe Phase Boundaries: The Role of Local Atomic Environment](https://www.sciencedirect.com/science/article/abs/pii/S1359645421001245)
 
 Previous sessions:
 
+- (February 10, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part I
 - (February 3, 2021 10am CET) [Thermodynamics and phase transitions in dissipative and active Morse chains](https://link.springer.com/article/10.1140/epjb/e2005-00151-2) Part II
 - (January 27, 2021 10am CET) [Thermodynamics and phase transitions in dissipative and active Morse chains](https://link.springer.com/article/10.1140/epjb/e2005-00151-2) Part I
 - (January 20, 2021 10am CET) [Critical exponent ν of the Ising model in three dimensions with long-range correlated site disorder analyzed with Monte Carlo techniques](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.174206)
