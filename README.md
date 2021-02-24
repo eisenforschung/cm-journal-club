@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (February 24, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part II
+- (March 3, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part III
 
 List of random interesting topics:
 
@@ -55,6 +55,7 @@ List of candidate papers:
 
 Previous sessions:
 
+- (February 24, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part II
 - (February 10, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part I
 - (February 3, 2021 10am CET) [Thermodynamics and phase transitions in dissipative and active Morse chains](https://link.springer.com/article/10.1140/epjb/e2005-00151-2) Part II
 - (January 27, 2021 10am CET) [Thermodynamics and phase transitions in dissipative and active Morse chains](https://link.springer.com/article/10.1140/epjb/e2005-00151-2) Part I
