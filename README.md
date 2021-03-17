@@ -4,6 +4,7 @@ Pyiron notebooks from our journal club
 Upcoming sessions:
 
 - (March 17, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0)
+- (March 24, 2021 10am CET) Segregation of H in Ni GB using metadynamics
 
 List of random interesting topics:
 
