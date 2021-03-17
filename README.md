@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (March 24, 2021 10am CET) Segregation of H in Ni GB using metadynamics
+- (March 24, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0) Part II
 
 List of random interesting topics:
 
@@ -52,7 +52,6 @@ List of candidate papers:
 - [Impact of crystallography at Ni/NiAl interfaces on the nucleation of Ni<sub>3</sub>Al](https://www.sciencedirect.com/science/article/abs/pii/S1359645421000938) (experiment)
 - [Atomistic Insight into Hydrogen Trapping at MC/BCC-Fe Phase Boundaries: The Role of Local Atomic Environment](https://www.sciencedirect.com/science/article/abs/pii/S1359645421001245)
 - [Relative stability of Cu, Ag, and Pt at high pressures and temperatures from ab initio calculations](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.103.064107)
-- [Atomic forces by quantum Monte Carlo: Application to phonon dispersion calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.L121110)
 
 Previous sessions:
 
