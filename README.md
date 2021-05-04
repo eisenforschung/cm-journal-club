@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (March 24, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0) Part II
+- (May 25, 2021 10am CEST) To be announced
 
 List of random interesting topics:
 
@@ -52,10 +52,12 @@ List of candidate papers:
 - [Impact of crystallography at Ni/NiAl interfaces on the nucleation of Ni<sub>3</sub>Al](https://www.sciencedirect.com/science/article/abs/pii/S1359645421000938) (experiment)
 - [Atomistic Insight into Hydrogen Trapping at MC/BCC-Fe Phase Boundaries: The Role of Local Atomic Environment](https://www.sciencedirect.com/science/article/abs/pii/S1359645421001245)
 - [Relative stability of Cu, Ag, and Pt at high pressures and temperatures from ab initio calculations](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.103.064107)
+- [Measuring simulated hydrogen diffusion in symmetric tilt nickel grain boundaries and examining the relevance of the Borisov relationship for individual boundary diffusion](https://www.sciencedirect.com/science/article/pii/S1359645421002627)
 
 Previous sessions:
 
-- (March 17, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0)
+- (March 24, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0) Part II
+- (March 17, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0) Part I
 - (February 24, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part II
 - (February 10, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part I
 - (February 3, 2021 10am CET) [Thermodynamics and phase transitions in dissipative and active Morse chains](https://link.springer.com/article/10.1140/epjb/e2005-00151-2) Part II
