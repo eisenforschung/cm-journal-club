@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (May 25, 2021 10am CEST) To be announced
+- (May 12, 2021 10am CEST) Automatic detection of interstitial sites Part II
 
 List of random interesting topics:
 
@@ -56,6 +56,7 @@ List of candidate papers:
 
 Previous sessions:
 
+- (May 5, 2021 10am CEST) Automatic detection of interstitial sites Part I
 - (March 24, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0) Part II
 - (March 17, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0) Part I
 - (February 24, 2021 10am CET) [Equation of motion and the constraining field in *ab initio* spin dynamics](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214407) Part II
