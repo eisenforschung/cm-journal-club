@@ -8,3 +8,11 @@
   - How does the simulation time affect the vacancy concentration?
   - Measure chemical potentials of H in bulk, surface and vacuum.
   - Measure vacancy formation free energy as a function of the H to simulate hydrogen charging.
+
+- (2021/05/26) How to identify interstitial sites (cf. [notebook](https://github.com/eisenforschung/cm-journal-club/blob/master/2021-05-26/find-interstitials.ipynb))
+  - How are geometric properties related to interstitials sites?
+    - Variance on neighbor distances
+    - Minimum/maximum/average neighbor distance
+    - Steinhardt parameter
+    - Convex hull volume
+    - Convex hull area
