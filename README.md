@@ -3,7 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (May 12, 2021 10am CEST) Automatic detection of interstitial sites Part II
+- (July 7, 2021 10am CEST) Characterization of interstitial sites Part II
 
 List of random interesting topics:
 
@@ -56,6 +56,13 @@ List of candidate papers:
 
 Previous sessions:
 
+- (June 30, 2021 10am CEST) Characterization of interstitial sites Part I
+- (June 23, 2021 10am CEST) [Predicting Point Defect Energies Part II](https://www.frontiersin.org/articles/10.3389/fmats.2021.673574/full)
+- (June 16, 2021 10am CEST) [Predicting Point Defect Energies Part I](https://www.frontiersin.org/articles/10.3389/fmats.2021.673574/full)
+- (June 9, 2021 10am CEST) [General Two- & Three-Body Potentials Part II](https://arxiv.org/abs/1910.07513)
+- (June 2, 2021 10am CEST) [General Two- & Three-Body Potentials Part I](https://arxiv.org/abs/1910.07513)
+- (May 19, 2021 10am CEST) Automatic detection of interstitial sites Part III
+- (May 12, 2021 10am CEST) Automatic detection of interstitial sites Part II
 - (May 5, 2021 10am CEST) Automatic detection of interstitial sites Part I
 - (March 24, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0) Part II
 - (March 17, 2021 10am CET) [Automated discovery of a robust interatomic potential for aluminum](https://www.nature.com/articles/s41467-021-21376-0) Part I
