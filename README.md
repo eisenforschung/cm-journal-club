@@ -3,7 +3,9 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (July 7, 2021 10am CEST) Characterization of interstitial sites Part II
+- (October 6, 2021 10am CEST) Grain Boundaries and Solute Drag Part II
+- (October 13, 2021 10am CEST) Quasi Newton made for large cells (to be confirmed)
+- (October 27, 2021 10am CEST) Mean field approximation for magnetic free energy (to be confirmed)
 
 List of random interesting topics:
 
@@ -56,6 +58,9 @@ List of candidate papers:
 
 Previous sessions:
 
+- (September 29, 2021 10am CEST) Grain Boundaries and Solute Drag Part I
+- (September 15, 2021 10am CEST) Creation of dislocations
+- (July 7, 2021 10am CEST) Characterization of interstitial sites Part II
 - (June 30, 2021 10am CEST) Characterization of interstitial sites Part I
 - (June 23, 2021 10am CEST) [Predicting Point Defect Energies Part II](https://www.frontiersin.org/articles/10.3389/fmats.2021.673574/full)
 - (June 16, 2021 10am CEST) [Predicting Point Defect Energies Part I](https://www.frontiersin.org/articles/10.3389/fmats.2021.673574/full)
