@@ -3,9 +3,7 @@ Pyiron notebooks from our journal club
 
 Upcoming sessions:
 
-- (October 6, 2021 10am CEST) Grain Boundaries and Solute Drag Part II
-- (October 13, 2021 10am CEST) Quasi Newton made for large cells (to be confirmed)
-- (October 27, 2021 10am CEST) Mean field approximation for magnetic free energy (to be confirmed)
+- To be announced
 
 List of random interesting topics:
 
@@ -58,6 +56,10 @@ List of candidate papers:
 
 Previous sessions:
 
+- (November 10, 2021 10am CET) Pressure calculation in DFT Parti II
+- (November 3, 2021 10am CET) Pressure calculation in DFT Parti I
+- (October 27, 2021 10am CEST) Mean field approximation for magnetic free energy (to be confirmed)
+- (October 6, 2021 10am CEST) Grain Boundaries and Solute Drag Part II
 - (September 29, 2021 10am CEST) Grain Boundaries and Solute Drag Part I
 - (September 15, 2021 10am CEST) Creation of dislocations
 - (July 7, 2021 10am CEST) Characterization of interstitial sites Part II
