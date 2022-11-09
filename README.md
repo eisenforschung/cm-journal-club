@@ -56,6 +56,9 @@ List of candidate papers:
 
 Previous sessions:
 
+- (November 9, 2022 10am CET) [Effect of large vacancy concentration on intrinsic and interdiffusion coefficients in B2-NiAl](https://www.sciencedirect.com/science/article/abs/pii/S1359645410007032)
+- (October 28, 2022 2pm CEST) [Quasi Newton preconditioner](https://gitlab.mpcdf.mpg.de/samsstud/journal-club)
+- (October 28, 2022 10am CEST) [Migration barriers and point defect complexes in B2–NiAl](https://www.sciencedirect.com/science/article/abs/pii/S0966979508002446)
 - (November 10, 2021 10am CET) Pressure calculation in DFT Parti II
 - (November 3, 2021 10am CET) Pressure calculation in DFT Parti I
 - (October 27, 2021 10am CEST) Mean field approximation for magnetic free energy (to be confirmed)
