@@ -56,6 +56,7 @@ List of candidate papers:
 
 Previous sessions:
 
+- (May 31, 2023 10am CET) [Machine learning surrogate models for prediction of point defect vibrational entropy](https://journals.aps.org/prmaterials/pdf/10.1103/PhysRevMaterials.4.063802)
 - (November 9, 2022 10am CET) [Effect of large vacancy concentration on intrinsic and interdiffusion coefficients in B2-NiAl](https://www.sciencedirect.com/science/article/abs/pii/S1359645410007032)
 - (October 28, 2022 2pm CEST) [Quasi Newton preconditioner](https://gitlab.mpcdf.mpg.de/samsstud/journal-club)
 - (October 28, 2022 10am CEST) [Migration barriers and point defect complexes in B2–NiAl](https://www.sciencedirect.com/science/article/abs/pii/S0966979508002446)
